@@ -1,0 +1,13 @@
+{
+  "name": "jscad-csg-wrapper",
+  "version": "0.0.1",
+  "repository": "https://github.com/bozokopic/jscad-csg-wrapper",
+  "main": "main.js",
+  "dependencies": {
+    "@jscad/csg": "^0.6.0",
+    "@jscad/x3d-serializer": "^1.0.0-pre-V2.0",
+    "fs-extra": "^7.0.0",
+    "ramda": "^0.25.0",
+    "x3dom": "^1.7.2"
+  }
+}
